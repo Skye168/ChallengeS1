@@ -13,6 +13,8 @@
 		4CBA476B19F3B516006E1D80 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CBA476A19F3B516006E1D80 /* Images.xcassets */; };
 		4CBA476E19F3B516006E1D80 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4CBA476C19F3B516006E1D80 /* LaunchScreen.xib */; };
 		4CBA477A19F3B516006E1D80 /* ChallengeS1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBA477919F3B516006E1D80 /* ChallengeS1Tests.swift */; };
+		4CBA478419F3B6C8006E1D80 /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CBA478319F3B6C8006E1D80 /* Bo.jpg */; };
+		4CBA478619F3B6CE006E1D80 /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CBA478519F3B6CE006E1D80 /* JRT.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		4CBA477319F3B516006E1D80 /* ChallengeS1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChallengeS1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CBA477819F3B516006E1D80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4CBA477919F3B516006E1D80 /* ChallengeS1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeS1Tests.swift; sourceTree = "<group>"; };
+		4CBA478319F3B6C8006E1D80 /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
+		4CBA478519F3B6CE006E1D80 /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		4CBA476119F3B516006E1D80 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4CBA478319F3B6C8006E1D80 /* Bo.jpg */,
+				4CBA478519F3B6CE006E1D80 /* JRT.jpg */,
 				4CBA476219F3B516006E1D80 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				4CBA476919F3B516006E1D80 /* Main.storyboard in Resources */,
 				4CBA476E19F3B516006E1D80 /* LaunchScreen.xib in Resources */,
+				4CBA478619F3B6CE006E1D80 /* JRT.jpg in Resources */,
+				4CBA478419F3B6C8006E1D80 /* Bo.jpg in Resources */,
 				4CBA476B19F3B516006E1D80 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
